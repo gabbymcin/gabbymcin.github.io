@@ -1,0 +1,32 @@
+body { 
+    background-image: url("white-marble-2048.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+    color: black;
+ font-size: 20px;
+ line-height: 100px;
+ letter-spacing: -0px;
+ font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color:black;
+    font-size: 30;
+    line-height: 50px;
+    text-align: center;
+    
+  
+    
+p {
+    font-size: 30;
+
+    
+}
+.ontop {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    padding: 60px;
+    border: 10px solid red;
+}
