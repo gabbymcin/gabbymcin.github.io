@@ -1,0 +1,66 @@
+body { 
+    background-color: #09f5f8;
+    font-size: 20px;
+    line-height: 100px;
+    letter-spacing: -0px;
+    font-family: Futura, Helvetica, Arial, sans-serif;
+}
+h1 {
+    color:pink;
+    font-size: 200;
+    line-height: 50px;
+    text-align: center;
+    font-style:italic
+}   
+
+p {
+    color:White;
+    font-size:100;
+    text-align:right;
+}
+
+.Whats {
+    color:pink;
+    
+
+}
+
+div {
+    width:200px;
+    height:200px;
+    background: white;
+    border-radius: 100%;
+    position: absolute;
+    color:pink;
+    font-size:40;
+}
+
+a:link {
+    color: white;
+    background-color: white;
+}
+
+a:hover {
+    background-color: #09f5f8;
+    color: #09f5f8;
+}
+
+.right-arrow {
+    float: right;
+    width: 400;
+    height: 30;
+    border-top: 10px solid transparent;
+    border-left: 10px solid #32cd32;
+    border-bottom: 10px solid transparent;
+    z-index: -1;
+}
+.box {
+    position:relative;
+    right:50px
+}
+.box 
+a:hover {
+    background-color: skyblue;
+    color: white;
+    }
+ 

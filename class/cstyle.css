@@ -1,0 +1,550 @@
+body { 
+    background-color: grey;
+  
+}
+
+.boxed {
+    width: 200px;
+    height: 200px;
+    Float:right;
+    background-color:blue; 
+    animation-name:pulse;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+
+.boxy {
+    width: 200px ;
+    height: 200px;
+    position:relative;
+    top:-1800%;
+    right:200%;
+    background-color:white;
+    animation-name:boxan;
+    animation-duration:3s;
+    animation-iteration-count:infinite;
+}
+
+.box {
+    width:200px;
+    height:200px;
+    background-color:white;
+    animation-name:boxanne;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+
+.hey {
+    width:200px;
+    height:200px;
+    background-color:orange;
+    animation-name:heya;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+
+.heytwo {
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:blue;
+    animation-name:heyaa;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.boxedtwo {
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:pink;
+    animation-name:pinkk;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.tired {
+    width:200px;
+    height:200px;
+    float:left;
+    background-color:green;
+    animation-name:tiredd;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.cat {
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:white;
+    animation-name:cats;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.another {
+    width:200px;
+    height:200px;
+    float:left;
+    background-color:yellow;
+    animation-name:yell;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.keys {
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:purple;
+    animation-name:key;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.light { ------- (fix position)
+    width:200px;
+    height:200px;
+    position:relative;
+    float:left;
+    background-color:white;
+    animation-name:lights;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.camera { 
+    width:200px;
+    height:200px;
+    float:left;
+    background-color:yellow;
+    animation-name:cameras;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.action { 
+    width:200px;
+    height:200px;
+    position:relative;
+    top: -106%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    animation-name:actions;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+    background-color:orange;
+}
+.surgeon{
+    width:200px;
+    height:200px;
+    position:relative;
+    top: -106%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    animation-name:surgeons;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+    background-color:purple;
+}
+.surge{
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:red;
+    animation-name:surges;
+   animation-duration:4s;
+   animation-iteration-count:infinite;
+  
+}
+.clue{
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:pink;
+    animation-name:clues;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.leaf{
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:orange;
+    animation-name:leaves;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.nug{
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-127%;
+    left:28%;
+    background-color:pink;
+    animation-name:nigs;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.blanket{
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-800;
+    right:-76%;
+    background-color:purple;
+    animation-name:blankets;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+    
+}
+.need {
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-800;
+    right:-634;
+    background-color:black;
+    animation-name:needs;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.week { 
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-1400;
+    left:433;
+    background-color:green;
+    animation-name:weeks;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+    
+}
+.bag { ----
+    width:200px;
+    height:200px;
+    position:relative;
+    top: -500%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    animation-name:bags;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+    background-color:orange;
+    
+}
+.set { 
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-2000;
+    right:-76%;
+    background-color:purple;
+    animation-name:blankets;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+
+}
+.sun {
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-1400%;
+    left:52%;
+    background-color:red;
+    animation-name:suns;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.phone {  
+ width:200px;
+    height:200px;
+    position:relative;
+    top:-1000%;
+    right:-800%;
+    background-color:#7b0808;
+    animation-name:phones;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.open {
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-2002;
+    left:-200;
+    float:right;
+    background-color:orange;
+    animation-name:opened;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.dj {
+    width:200px;
+    height:200px;
+    float:left;
+    background-color:orange;
+    animation-name:djs;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.mirror {
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:pink;
+    animation-name:mirrors;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.six {
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-2000;
+    left:-200;
+    float:right;
+    background-color:blue;
+    animation-name:sixes;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+.acid {
+    width:200px;
+    height:200px;
+    float:right;
+    background-color:yellow;
+    animation-name:acids;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+@keyframes pulse {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+} 
+
+p {
+    color:pink;
+    font-size:50;
+  
+}
+.clocked {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: -2200;
+    left: 500;
+    background-color: black;
+    animation-name: rotate;
+    animation-duration: 60s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    
+    
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+        float:right;
+    }
+} 
+.seconds {
+    width:20px;
+    height:20px;
+    background-color:white;
+    animation-name:line;
+
+}
+
+@keyframes line {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+    
+    
+} 
+@keyframes boxan {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+    
+}
+@keyframes boxanne {
+    from{
+        background-color:purple;
+    }
+    to {
+        background-color:white;
+    }
+}
+@keyframes heya {
+    from {
+        background-color:orange;
+    }
+    to {
+    background-color: pink;
+    }
+}
+@keyframes heyaa {
+    from{
+        background-color:blue;
+    }
+    to {
+        background-color:white;
+    }
+}
+@keyframes pinkk {
+    from{ 
+        background-color: pink;
+    }
+    to {
+        background-color:white;
+    }
+}
+@keyframes tiredd {
+    from{
+        background-color:green;
+    }
+    to {
+        background-color:blue;
+    }
+}
+@keyframes cats {
+    from {
+        background-color:white; 
+    }
+    to { 
+        background-color:pink;
+    }
+}
+@keyframes yell {
+    from{ 
+        background-color:yellow;
+    }
+    to {
+        background-color:white;
+    }
+}
+@keyframes key {
+    from { background-color:purple;
+    }
+    to {
+        background-color:white;
+    }
+}
+@keyframes djs {
+    from { background-color:orange;
+    }
+    to { 
+        background-color:yellow;
+    }
+}
+@keyframes mirrors {
+    from { background-color:pink;
+    }
+    to {
+        background-color:blue;
+    }
+}
+@keyframes acids {
+    from { background-color:yellow;
+    }
+    to { background-color:green;
+    }   
+    
+}
+@keyframes lights {
+    from { background-color:white;
+    }
+    to { background-color:green;
+    }
+}
+@keyframes cameras {
+    from { background-color:yellow;
+    }
+    to { background-color:blue;
+    }
+}
+@keyframes actions {
+    from { background-color:orange;
+    }
+    to { background-color:black;
+    }
+}
+@keyframes surgeons {
+    from { background-color:purple;
+    }
+    to { background-color:black;
+    }
+}
+@keyframes surges {
+    from { background-color:red;
+    }
+    to { background-color:white;
+    }
+}
+@keyframes clues {
+    from { background-color:pink;
+    }
+    to { background-color:red;
+}
+} @keyframes leaves {
+    from { background-color:orange;
+    }
+    to { background-color:green;
+}
+}@keyframes nugs {
+    from { background-color:pink;
+    }
+    to { background-color:green;
+}
+}@keyframes blankets {
+    from { background-color:purple;
+    }
+    to { background-color:orange;
+}
+}@keyframes needs {
+    from {background-color:black;
+    }
+    to { background-color:pink;
+}
+}@keyframes weeks {
+    from { background-color:green;
+    }
+    to { background-color:blue;
+}
+}@keyframes bags {
+    from { background-color: orange;
+    }
+    to { background-color: purple;
+}
+}@keyframes suns {
+    from { background-color:red;
+    }
+    to { background-color:white;
+    }
+} @Keyframes sets {
+        from { background-color:white;
+        }
+        to { background-color:black;
+    }
+ }@keyframes sixes {
+        from { background-color: blue;
+        }
+        to { background-color: white;
+        }
+}
+@keyframes opened {
+    from { background-color:orange;
+    }
+    to { background-color:pink;
+    }
+}

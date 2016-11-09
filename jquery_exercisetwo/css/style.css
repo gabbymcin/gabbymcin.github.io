@@ -1,0 +1,13 @@
+body, html {
+  font-family: Arial, sans-serif;
+  height: 100%;
+}
+
+.dot {
+	width:100px;
+	height:100px;
+	background-color:green;
+	margin:20px;
+	display:inline-block
+}	position:absolute;
+}
