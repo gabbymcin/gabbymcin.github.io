@@ -10,7 +10,7 @@ var visibility = 0;
 var myCounter = 1;
 
 var cats - ["img/cat1.jpg", ]
-$("body").append("img src ='" + cats )
+$("body").append("img src ='" + cats)
 
 
 $(".dot").each(function() {
