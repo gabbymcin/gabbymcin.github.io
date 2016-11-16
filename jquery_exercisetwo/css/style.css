@@ -2,12 +2,15 @@ body, html {
   font-family: Arial, sans-serif;
   height: 100%;
   font-size:200;
-  color:;
+  
 }
 h1 {
 	Color:white;
 	position:fixed;
-	right:20%;
+	top: -1%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:300;
 }
 .dot {
 	width:400px;
@@ -15,6 +18,20 @@ h1 {
 	background-color:pink;
 	margin:20px;
   display:inline-block;
-	position:;
 	border-radius: 100%
+}
+.gradient {
+background-image: -webkit-gradient(linear, 0 100%, 0 0, from(#FFFFFF), to(#b769a3));
+background-image: -webkit-linear-gradient(#FFFFFF 0%, #b769a3 100%);
+background-image: -moz-linear-gradient(#FFFFFF 0%, #b769a3 100%);
+background-image: -o-linear-gradient(#FFFFFF 0%, #b769a3 100%);
+background-image: linear-gradient(#FFFFFF 0%, #b769a3 100%);
+
+}
+#rex {
+	position: fixed;
+	display:none;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
 }

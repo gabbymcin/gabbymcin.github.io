@@ -1,4 +1,5 @@
 $("body").css("background-color","green");
+$("body").addClass("gradient");
 
 for (var i=0; i < 100; i++) {
     $("body").append("<div class='dot'></div>");
@@ -9,7 +10,8 @@ var myCounter = 1;
 
 var cats = ["img/face.jpg", "img/face.jpg", "img/face.jpg"];
 
-$("body").append("<img src='" + cats[Math.floor(Math.random()*3)] + "'>");
+//$("body").append("<img src=rex.gif'" + rex[Math.floor(Math.random()*3)] + "'>");
+
 
 $(".dot").each(function() {
    $(this).css("opacity", visibility/100);
@@ -22,4 +24,15 @@ $(".dot").each(function() {
    myCounter++;
    visibility++;
    
+
+});
+
+$(".dot").click(function() {
+   console.log(".dot");
+    $("#rex").show();
+
+});
+
+$("#status").mouseleave(function() {
+    $("#rex").show();
 });
