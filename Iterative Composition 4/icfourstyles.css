@@ -44,7 +44,7 @@ body {
     position:relative;
     right:-300;
 }
-    }    
+    
  @keyframes slid {
   0% {
     left: 0;
@@ -60,7 +60,7 @@ body {
   }
 }
 .stagetwo {
-  background: white;
+  background: black
   border-radius: 6px;
   height: 150px;
   position: relative;
@@ -83,3 +83,4 @@ body {
 
     
 
+}

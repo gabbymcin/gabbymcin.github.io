@@ -6,8 +6,9 @@ body, html {
 .dot {
 	width:100px;
 	height:100px;
-	background-color:green;
+	background-color:pink;
 	margin:20px;
-	display:inline-block
-}	position:absolute;
+  display:inline-block;
+	position:;
+	border-radius: 100%
 }
