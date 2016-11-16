@@ -1,11 +1,17 @@
 body, html {
   font-family: Arial, sans-serif;
   height: 100%;
+  font-size:200;
+  color:;
 }
-
+h1 {
+	Color:white;
+	position:fixed;
+	right:20%;
+}
 .dot {
-	width:100px;
-	height:100px;
+	width:400px;
+	height:400px;
 	background-color:pink;
 	margin:20px;
   display:inline-block;
