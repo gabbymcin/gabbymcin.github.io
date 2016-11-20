@@ -26,7 +26,7 @@ p {
 
 }
 .hey {
-    background-color:white
+
     width:200px;
     height:200px;
     border-radius:100%;
@@ -65,19 +65,13 @@ a:hover {
 .right-arrow {
     float: right;
     width: 400;
-    height: 30;
-    border-top: 10px solid transparent;
-    border-left: 10px solid #32cd32;
-    border-bottom: 10px solid transparent;
+    height: 40;
+    border-top: 10px solid white;
+    border-left: 10px solid black;
+    border-bottom: 10px solid white;
     z-index: -1;
+
+
 }
-.box {
-    position:relative;
-    right:50px
-}
-.box 
-a:hover {
-    background-color: skyblue;
-    color: white;
-    }
+
  
