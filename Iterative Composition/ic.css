@@ -50,8 +50,37 @@ p {
     border: 10px dashed grey;
     font-size:60;
     font-style:bold;
+}
+.Do {
+    background-color: orange;
+    color:pink;
+    border: 10px dashed red;
+    font-size:26;
+    
+}
+.What {
+    background-color: red;
+    color:pink;
+    border: 10px dashed black;
+    font-size:26;
+    
+}
+.You {
+    background-color: green;
+    color:black;
+    border: 10px dashed white;
+    font-size:60;
+    
+}
 
-
+.Want {
+    background-color: yellow;
+    color:pink;
+    border: 10px dashed grey;
+    font-size:40;
+    font-style:bold;
+    
+}
 .div {
     -moz-border-radius: 50px/50px;
     -webkit-border-radius: 50px 50px;
