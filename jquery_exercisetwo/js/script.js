@@ -1,4 +1,4 @@
-$("body").css("background-color","green");
+$("body").css("background-color","white");
 $("body").addClass("gradient");
 
 for (var i=0; i < 100; i++) {
