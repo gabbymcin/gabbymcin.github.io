@@ -64,8 +64,7 @@ p {
 
 
 a:link {
-    color: pink;
-    
+    background-color:pink;
     text-decoration: none;
 }
 
@@ -87,3 +86,12 @@ a:hover {
 
 }
  
+.hello {
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    background-color:pink;
+    position:relative;
+    top:-60%;
+    left:3%;
+}
