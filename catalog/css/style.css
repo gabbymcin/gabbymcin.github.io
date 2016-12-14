@@ -91,7 +91,7 @@ h1 {
 	background:orange;
     width: 300px;
     height: 300px;
-	bottom:-3%;
+	bottom:-30%;
 	right:40%;
 	position: absolute;
     background-color: pink;
@@ -180,5 +180,24 @@ h1 {
     color: white;
     line-height: 170px;
 	background-image: url(../blur.jpg);
+
+	}
+	
+	.triangle-seven {
+
+	width:200px;
+	height:200px;
+	border-radius:100%;
+	transition:all 2s;
+background: -webkit-linear-gradient(#e722e7,#ffffff );
+right:15%;
+	position: absolute;
+	
+	}
+	
+	.triangle-seven:hover {
+	width:200px;
+	height:200px;
+	border-radius: 100%
 
 	}
