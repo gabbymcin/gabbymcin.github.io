@@ -1,0 +1,159 @@
+body, html {
+  font-family: Arial, sans-serif;
+  height: 100%;
+  font-size:200;
+  background-color: white; 
+  
+}
+h1 {
+	Color:black;
+	top: -1%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:300;
+
+	
+}
+.whatever {
+	bottom: 7000%;
+	right: 700%;
+	transform: translate(-50%,-50%);
+	position:relative;
+	text-align:center;
+
+}
+
+
+.triangle-one {
+	width: 200px;
+	height: 100px;
+	background: red;
+	border:10px dashed black;
+	transition:all 2s;
+	bottom:10px;
+	right:50px;
+	position: absolute;
+	
+}
+.triangle-one a {
+	color:white;
+	text-decoration: none;
+	
+}
+.triangle-one p{
+	font-family: Arial, sans-serif;
+	color:black;
+	text-align:center;
+	text-transform: uppercase;
+	font-size:18px;
+	font-weight:bold;
+}
+	.triangle-one:hover {
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+    border:dashed white;
+    line-height: 170px;
+    color: white;
+	}
+	
+	
+	
+.triangle-two {
+	background: lightblue;
+	width:200px;
+	height:200px;
+	border-radius:100%;
+	transition:all 2s;
+	bottom:00px;
+	left:200px;
+	position: absolute;
+	
+}
+.triangle-two p{
+	text-align:center;
+	color:white;
+}	
+
+.triangle-two a {
+	
+}
+	.triangle-two:hover {
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    line-height: 170px;
+    color: white;
+
+	
+}
+.triangle-three {
+	background:orange;
+    width: 300px;
+    height: 300px;
+	bottom:100px;
+	right:385px;
+	position: absolute;
+    background-color: black;
+    animation-name: rotate;
+    animation-duration: 60s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+        float:right;
+        
+		}
+}
+.triangle-four {
+
+	width:200px;
+	height:200px;
+	border-radius:100%;
+	transition:all 2s;
+	background: lightblue;
+	bottom:375px;
+	left:80px;
+	position: absolute;
+	
+}
+
+	.triangle-four:hover {
+    width: 300px;
+    height: 300px;
+    background-color: pink;
+    line-height: 170px;
+    color: white;
+    background-image: url(../firee.jpeg);
+
+    
+	}
+	
+	
+	.triangle-five {
+
+	width:200px;
+	height:200px;
+	border-radius:100%;
+	transition:all 2s;
+	background: green;
+	bottom:220px;
+	right:25px;
+	position: absolute;
+	
+	}
+	
+	.triangle-five:hover {
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    position: absolute;
+
+	}

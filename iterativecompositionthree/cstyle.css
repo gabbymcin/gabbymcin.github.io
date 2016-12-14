@@ -1,0 +1,2392 @@
+body { 
+    background-color: grey;
+    margin:0px;
+}
+
+
+
+    p {
+    color:pink;
+    font-size:50;
+  
+}
+
+.boxed{
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxthree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+
+.boxtwo {
+    width: 20%;
+    height: 35%;
+    position:relative;
+    float: left;
+    background-color:pink; 
+    animation-name:boxxtwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+
+}
+    @keyframes boxxtwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+
+    
+    .boxthree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxthree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+
+       
+    .boxfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+
+
+    .boxfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+
+   
+    .boxsix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxsix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxseven {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+      .boxeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+       .boxnine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxnine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxnine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+  
+       .boxeleven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeleven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeleven {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxtwelve {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxtwelve;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwelve {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxthirteen {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxthirteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirteen {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+     
+    .boxfourteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfourteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourteen {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfifteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfifteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfifteen {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxsixteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxsixteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixteen {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxseventeen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxseventeen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventeen {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxeighteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxeighteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeighteen {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxtwenty {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxtwenty;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwenty {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxtwentyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxtwentyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxtwentytwo {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    float: left;
+    background-color:pink; 
+    animation-name:boxxtwentytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentyone {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxtwentythree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxtwentythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentythree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxtwentyfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxtwentyfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxtwentyfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxtwentyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxtwentysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxtwentysixx;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentysixx {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxtwentyseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxtwentyseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxtwentyeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxtwentyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+  
+   .boxtwentynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxtwentynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxtwentynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxthirty {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxthirty;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirty {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxthirtyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxthirtyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxthirtytwo {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxthirtytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtytwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxthirtythree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxthirtythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtythree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxthirtyfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxthirtythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxthirtyfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxthirtyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxthirtysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxthirtysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtysix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxthirtyseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxthirtyseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxthirtyeight {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxthirtyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxthirtynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxthirtynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxthirtynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfourty {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfourty;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourty {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxfourtyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfourtyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfourtytwo {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfourtytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtytwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxfourtythree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfourtythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtythree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfourtyfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfourtyfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxfourtyfive {
+      width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfourtyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfourtysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfourtysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtysix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxfourtyseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfourtyseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfourtyeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfourtyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxfourtynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfourtynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfourtynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfifty {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfifty;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfifty {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxfiftyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfiftyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxfiftytwo {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfiftytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftytwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxfiftythree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfiftythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftythree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxfiftyfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfiftyfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxfiftyfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfiftyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxfiftysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfiftysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftysix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxfiftyseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfiftyseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxfiftyeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxfiftyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxfiftynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxfiftynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxfiftynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxsixty {
+      width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxsixty;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixty {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxsixtyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxsixtyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxsixtytwo {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxsixtytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtytwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxsixtythree {
+      width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxsixtythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtythree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxsixtyfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxsixtyfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxsixtyfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxsixtyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxsixtysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxsixtysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtysix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxsixtyseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxsixtyseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxsixtyeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxsixtyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxsixtynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxsixtynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxsixtynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxseventy {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxseventy;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventy {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxseventyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxseventyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxseventytwo {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxseventytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventytwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxseventythree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxseventythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventytwo {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxseventyfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxseventyfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxseventyfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxseventyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxseventysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxseventysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventysix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxseventyseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxseventysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxseventyeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxseventyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxseventynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxseventynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxseventynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxeighty {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeighty;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeighty {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxeightyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxeightyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxeightytwo {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeightytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightytwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxeightythree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxeightythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightythree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxeightyfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeightyfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxeightyfive {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxeightyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxeightysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeightysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightysix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxeightyseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxeightyseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxeightyeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeightyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxeightynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxeightynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxeightynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxninety {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxninety;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninety {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxninetyone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxninetyone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetyone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxninetytwo {
+      width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxninetytwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetytwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxninetythree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxninetythree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetythree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxninetyfour {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxninetyfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetyfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxninetyfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxninetyfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetyfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxninetysix {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxninetysix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetysix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxninetyseven {
+      width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxninetyseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetyseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxninetyeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxninetyeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetyeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxninetynine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxninetynine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxninetynine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundred {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundred;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundred {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+     .boxhundredone {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundredone;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredone {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+ 
+    .boxhundredtwo {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredtwo;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredtwo {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+ 
+    .boxhundredthree {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundredthree;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredthree {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxhundredfour {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredfour;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredfour {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+ 
+    .boxhundredfive {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundredfive;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredfive {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundredsix {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredsix;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredsix {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxhundredseven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundredseven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredseven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundredeight {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredeight;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredeight {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxhundrednine {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundrednine;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundrednine {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundredten {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredten;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredten {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxhundredeleven {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundredeleven;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredeleven {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundredtwelve {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredtwelve;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredtwelve {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxhundredthirteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundredthirteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredthirteen {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundredfourteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredfourteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredfourteen {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+  
+    .boxhundredfifteen {
+     width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:blue; 
+    animation-name:boxxhundredfifteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredfifteen {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+     .boxhundredsixteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    Float:left;
+    background-color:pink; 
+    animation-name:boxxhundredsixteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredfifteen {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxhundredseventeen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    float:left;
+    background-color:blue; 
+    animation-name:boxxhundredseventeen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredseventeen {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundredeighteen {
+    width: 20%;
+    height: 35%;
+    position: relative;
+    float:left;
+    background-color:pink; 
+    animation-name:boxxhundredeighteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredeighteen {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+ 
+    .boxhundrednineteen {
+      width: 20%;
+    height: 35%;
+    position:relative;
+    float:left;
+    background-color:blue; 
+    animation-name:boxxhundrednineteen;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundrednineteen {
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color:pink;
+    }
+ }
+ 
+ 
+    .boxhundredtwenty {
+    width: 20%;
+    height: 35%;
+    position:relative;
+    top:-123.1%;
+    left:73.6%;
+    background-color:pink; 
+    animation-name:boxxhundredtwenty;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+}
+    @keyframes boxxhundredtwenty {
+    from {
+        background-color: pink;
+    }
+    to {
+        background-color:blue;
+    }
+ }
+ 
+     
+     
+    .clock {
+    width: 300px;
+    height: 300px;
+    position:fixed;
+    top:40%;
+    right:42%;
+    background-color:white; 
+    animation-name:clocked;
+    animation-duration: 60s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    text-align:center;
+}
+    @keyframes clocked {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+ }

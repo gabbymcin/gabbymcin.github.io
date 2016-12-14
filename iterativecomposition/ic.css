@@ -1,0 +1,94 @@
+body { 
+
+background-color: black;
+ font-size: 20px;
+ line-height: 100px;
+ letter-spacing: -0px;
+ font-family: Futura, Helvetica, Arial, sans-serif;
+ 
+}
+
+h1 {
+    color:pink;
+    font-size: 30;
+    line-height: 50px;
+    text-align: center;
+}   
+p {
+    color:black;
+    text-align:center;
+}
+.the {
+    background-color: orange;
+    color:pink;
+    border: 10px dashed red;
+    font-size:26;
+}
+
+.speical {
+    color:pink; 
+    background-color:black;
+    border: 10px dashed white;
+}
+
+.elle {
+    background-color: red;
+    color:pink;
+    border: 10px dashed black;
+    font-size:26;
+    
+}
+.is {
+    background-color: green;
+    color:pink;
+    border: 10px dashed white;
+    font-size:40;
+}
+.yours {
+    background-color: yellow;
+    color:black;
+    border: 10px dashed grey;
+    font-size:60;
+    font-style:bold;
+}
+.Do {
+    background-color: orange;
+    color:pink;
+    border: 10px dashed red;
+    font-size:26;
+    
+}
+.What {
+    background-color: red;
+    color:pink;
+    border: 10px dashed black;
+    font-size:26;
+    
+}
+.You {
+    background-color: green;
+    color:black;
+    border: 10px dashed white;
+    font-size:60;
+    
+}
+
+.Want {
+    background-color: yellow;
+    color:pink;
+    border: 10px dashed grey;
+    font-size:40;
+    font-style:bold;
+    
+}
+.div {
+    -moz-border-radius: 50px/50px;
+    -webkit-border-radius: 50px 50px;
+    border-radius: 50px/50px;
+    border:21px solid #f00;
+    width:50px;
+    height:50px;
+
+    background: #fff
+
+}

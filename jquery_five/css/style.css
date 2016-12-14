@@ -1,0 +1,22 @@
+body, html {
+  font-family: Arial, sans-serif;
+  height: 100%;
+  font-size:200;
+}
+
+.box {
+width:100px;
+height:100px;
+background-color:red;
+display:inline-block;
+Margin:20px
+
+}
+
+.whatever {
+	background-color:lime;
+	width:100px;
+	height:100px;
+	border: 10px solid red;
+	border-radius:100%;
+}
