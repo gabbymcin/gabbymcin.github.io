@@ -15,16 +15,23 @@ h1 {
 .dot {
 	width:400px;
 	height:400px;
+	position: fixed; 
+	right:32%;
+	bottom:13%;
 	background-color:#840a1f;
 	margin:20px;
   display:inline-block;
 	border-radius: 100%
 	
 }
+    p {
+    color:pink;
+    font-size:200%;
+    position:fixed;
+    bottom:40%;
+    left:45%;
 
-
-	
-
+    }
 .gradient {
 background-image: -webkit-gradient(linear, 0 100%, 0 0, from(#ff7d03), to(#ee1539));
 background-image: -webkit-linear-gradient(#ff7d03 0%, #ee1539 100%);
@@ -47,7 +54,8 @@ background-image: linear-gradient(#ff7d03 0%, #bee1539 100%);
 
 }
 #rain {
-	   width:100%;
+		transform: translate(-50%,-50%);
+	   width:200%;
     height:200%;
     position: fixed;
 }

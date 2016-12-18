@@ -1,8 +1,9 @@
 body, html {
-  font-family: Arial, sans-serif;
+  font-family: arial, sans-serif;
   height: 100%;
   font-size:200;
   margin:0px;
+  background-image: -webkit-gradient(linear, 0 100%, 0 0, from(#ff7d03), to(#ee1539));
   
 }
 h1 {
@@ -22,17 +23,12 @@ h1 {
   display:inline-block;
 	border-radius: 100%
 	
-}
+
 
 
 	
 
-.gradient {
-background-image: -webkit-gradient(linear, 0 100%, 0 0, from(#ff7d03), to(#ee1539));
-background-image: -webkit-linear-gradient(#ff7d03 0%, #ee1539 100%);
-background-image: -moz-linear-gradient(#ff7d03 0%, #ee1539 100%);
-background-image: -o-linear-gradient(#ff7d03 0%, #ee1539 100%);
-background-image: linear-gradient(#ff7d03 0%, #bee1539 100%);
+
 
 }
 #weeknd {

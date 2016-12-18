@@ -38,6 +38,7 @@ $(".dot").click(function(){
 $("#weeknd").click(function(){
     $("#weeknd").hide();
     $('#rain').show();
+    $(".h1").hide();
 });
 
 $("#rain").click(function(){

@@ -1,7 +1,7 @@
 $("body").css("background-color","white");
 $("body").addClass("gradient");
 
-for (var i=0; i < 100; i++) {
+for (var i=0; i < 1; i++) {
     $("body").append("<div class='dot'></div>");
 
 }
@@ -13,36 +13,32 @@ var myCounter = 1;
 //$("body").append("<img src=source.gif'" + weeknd[Math.floor(Math.random()*3)] + "'>");
 
 
-$(".dot").each(function() {
-   $(this).css("opacity", visibility/100);
-   $(this).html(myCounter);
-   $(this).css("height",myCounter+100);
-   $(this).css("width",myCounter+100);
-   $(this).css("top",Math.floor(Math.random()*$(window).height()));
-   $(this).css("left",Math.floor(Math.random()*$(window).width()));
-   $(this).css("font-size",Math.floor(Math.random()*$(window).width()));
-   myCounter++;
-   visibility++;
    
     
 
-    
-});
 
 $('#rain').hide();
 
 $(".dot").click(function(){
+    $(".dot").hide();
+    $("p").hide();
+    $(".whatever").hide();
     $("#weeknd").show();
 });
 
 $("#weeknd").click(function(){
     $("#weeknd").hide();
     $('#rain').show();
+    $(".h1").hide();
 });
 
 $("#rain").click(function(){
     $("#rain").hide();
-    $('#weeknd').show();
+    $(".h1").show();
+    $(".dot").show();
+    $("p").show();
+    $(".whatever").show();
+ 
 });
 
 
