@@ -102,8 +102,8 @@ h1 {
 }
 .triangle-four {
 
-	width:200px;
-	height:200px;
+	width:150px;
+	height:150px;
 
 	transition:all 2s;
 	background: #f36d00;
@@ -114,8 +114,7 @@ h1 {
 }
 
 	.triangle-four:hover {
-    width: 200px;
-    height: 200px;
+
     background-color: pink;
     line-height: 170px;
     color: white;
@@ -139,8 +138,8 @@ h1 {
 	}
 	
 	.triangle-five:hover {
-    width: 500px;
-    height: 500px;
+    width: 275px;
+    height: 275px;
     background-color: red;
     position: absolute;
 
