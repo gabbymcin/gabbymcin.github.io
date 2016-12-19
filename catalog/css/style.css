@@ -30,7 +30,7 @@ h1 {
 	background: red;
 	border:10px dashed black;
 	transition:all 2s;
-	bottom:-30%;
+	bottom:-40%;
 	right:50px;
 	position: absolute;
 	
@@ -150,10 +150,10 @@ h1 {
 		
 	.triangle-six {
 
-	width:200px;
-	height:400px;
+	width:250px;
+	height:250px;
 	transition:all 2s;
-	background: black;
+	background: red;
 	bottom:50%;
 	left:40%;
 	position: absolute;
@@ -164,9 +164,9 @@ h1 {
 	width:250px;
 	height:250px;
     position: absolute;
-    color: white;
+    background: black;
     line-height: 170px;
-	background-image: url(../blur.jpg);
+	
 
 	}
 	
